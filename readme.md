@@ -1,4 +1,4 @@
-# GeniusPrompter Chatbot 🚀
+# GeniusPrompter Chatbot 🚀 - By **𝓐𝓶𝓲𝓽 𝓛𝓾𝓵𝓵𝓪** 🖋️
 
 GeniusPrompter is a smart chatbot powered by OpenAI, designed to assist users in generating perfect prompts for various tasks. The chatbot utilizes advanced language models to provide creative and accurate prompts based on user input.
 
@@ -10,26 +10,23 @@ GeniusPrompter is a smart chatbot powered by OpenAI, designed to assist users in
 ## Getting Started
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/genius-prompter.git
+   git clone [https://github.com/your-username/genius-prompter.git](https://github.com/tech-dev-amit/genius_prompt_builder.git)
    cd genius-prompter
    ```
-Install Dependencies:
-
-
+2. Install Dependencies:
+```
 pip install -r requirements.txt
-Run the Application:
+```
+3. Run the Application:
+```
+streamlit run main.py
+```
 
-
-streamlit run main_code.py
-Enter Your OpenAI API Key:
+## Enter Your OpenAI API Key:
 Enter your OpenAI API key in the sidebar to enable the chatbot.
 
-Example Usage
+Example Usage:
+[🦜 Langchain](https://openai-prompting-helper-e924c62387f55170bc7836f9f-ffoprvkqsa-uc.a.run.app/auto-prompter/playground/)
 
 Credits
-Launchain Auto-Prompt Builder: Inspired by the auto-prompt builder feature. Twitter Link
-Contributing
-Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
-
-License
-This project is licensed under the MIT License.
+Launchain Auto-Prompt Builder: Inspired by the auto-prompt builder feature. [Twitter Link](https://twitter.com/LangChainAI/status/1743319684735434965)
